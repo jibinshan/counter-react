@@ -13,6 +13,8 @@ function App() {
     <div className="App">
      <h1>welcome <br /> click '+' to increment and click '-' to decrement</h1>
      <Counter increment={increment} count={count} decrement={decrement}/>
+     <h1>welcome <br /> click '+' to increment and click '-' to decrement</h1>
+     <Counter increment={increment} count={count} decrement={decrement}/>
     </div>
   );
 }
